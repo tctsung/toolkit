@@ -1,0 +1,9 @@
+"id", name, 'age',dt
+1,John Doe,30.4, "2011-01-24"
+2,Jane Smith ,None, "2011-01-18"
+3, Bob Johnson,40.1, "2011-01-15"
+4,Alice     Brown,20, 
+5,Charlie Black,25, 2011-01-24,extra_column
+6," ",30, "2011-01-15"
+7,?,30, "2011-01-15"
+8,NA,30, "2011-01-15"
