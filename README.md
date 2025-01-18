@@ -15,10 +15,11 @@ Self-written toolkit for data cleaning, visualization, preprocessing, EDA, &amp;
 
 Class Data:
 
-* Diagnosis func: identify potential issues
-* transform dtypes in easy way
+* Diagnosis: identify primary key, visualize NA patterns, statistics summary, suggesstion for dtypes
+* transform dtypes in easy way (follow diagnosis | customized)
 * integrate LLM for diagnosis & more applications
-
+* save: metadata (dtypes, summary) & actual data
+* turn this into python pkg
 Class Vis:
 * visualization
 
